@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "925790679356",
+    "firebase_url": "https://ifollow-27f91.firebaseio.com",
+    "project_id": "ifollow-27f91",
+    "storage_bucket": "ifollow-27f91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925790679356:android:dadd113b466203cb",
+        "android_client_info": {
+          "package_name": "com.example.jayesh123.ifollow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925790679356-fum1fte2g9k9cshb24ho7dm02lkrnlrn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jayesh123.ifollow",
+            "certificate_hash": "03ea0f97def0e876f530260d2c33ca2e04531e72"
+          }
+        },
+        {
+          "client_id": "925790679356-rjartbui4ibaj833uieqsr0hg8gtv101.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9hbEsuO6mUdsrInRvx9AYmN_0eLdK2aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925790679356-rjartbui4ibaj833uieqsr0hg8gtv101.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
